@@ -1,6 +1,6 @@
 package out;
 public class iftest {
-    public static void main(String[] args) {
+    public static void main(String[] args) {  
         // declare variable
         int i = 5;
         if (i == 5) {
