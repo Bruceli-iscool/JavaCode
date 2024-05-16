@@ -10,6 +10,10 @@ public class constructors {
         steven.printInfo();
         MotorCycle tim = new MotorCycle();
         tim.printInfo();
+        Boolean[] sellable = {tim.sell(), steven.sell()};
+        for (int i = 0; i < sellable.length; i++) {
+            System.out.println(sellable[i]);
+        } 
     }
 }
 
@@ -50,5 +54,12 @@ class MotorCycle extends Bikes {
         System.out.println("Motorcycle loudness = " + loud);
         System.out.println("Motorcycle color = " + super.bikeColor);
         System.out.println("Motorcycle speed = " + super.bikeSpeed);
+    }
+    public boolean sell() {
+        if (loud > 100 || super.bikeSpeed < 100) {
+            return false;
+        } else {
+            return true;
+        }
     }
 }
