@@ -6,8 +6,10 @@ public class constructors {
         Bikes bill = new Bikes();
         bill.printInfo();
         john.printInfo();
-        MotorCycle steven = new MotorCycle("Honda",100, "red", 100);
+        MotorCycle steven = new MotorCycle("Honda",100, "Orange", 100);
         steven.printInfo();
+        MotorCycle tim = new MotorCycle();
+        tim.printInfo();
     }
 }
 
@@ -31,6 +33,12 @@ class Bikes {
 class MotorCycle extends Bikes {
     String motorBrand;
     int loud;
+    public MotorCycle() {
+        super.bikeSpeed = 300;
+        super.bikeColor = "Purple";
+        motorBrand = "Toyota";
+        loud = 1_000_000;
+    }
     public MotorCycle(String brand, int loudness, String color, int speed) {
         super.bikeSpeed = speed;
         super.bikeColor = color;
