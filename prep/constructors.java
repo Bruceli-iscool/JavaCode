@@ -11,7 +11,7 @@ public class constructors {
         MotorCycle tim = new MotorCycle();
         tim.printInfo();
         Boolean[] sellable = {tim.sell(), steven.sell()};
-        for (int i = 0; i < sellable.length; i++) {
+        for (byte i = 0; i < sellable.length; i++) {
             System.out.println(sellable[i]);
         } 
     }
