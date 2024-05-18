@@ -18,6 +18,7 @@ public class constructors {
 }
 
 class Bikes {
+    // bikes
     String bikeColor;
     int bikeSpeed;
     public Bikes() {
