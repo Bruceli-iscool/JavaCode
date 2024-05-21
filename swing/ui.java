@@ -8,6 +8,9 @@ public class ui {
         JFrame frame = new JFrame("ui");
         frame.setLayout(new FlowLayout());
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(300, 400);    
+        frame.setSize(300, 400);
+        JLabel label = new JLabel("Hi john");
+        frame.add(label);
+        frame.repaint();
 }
 }
