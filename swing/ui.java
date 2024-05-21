@@ -9,8 +9,15 @@ public class ui {
         frame.setLayout(new FlowLayout());
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300, 400);
-        JLabel label = new JLabel("Hi john");
+        JLabel label = new JLabel("Hi john\n");
         frame.add(label);
+        JTextArea t = new JTextArea();
+        frame.add(t);
+        frame.setVisible(true);
+        while (true) {
+        JLabel label2 = new JLabel(t.getText());
+        frame.add(label2);
         frame.repaint();
+        }
 }
 }
