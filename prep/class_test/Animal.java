@@ -2,7 +2,8 @@ package prep.class_test;
 
 
 public class Animal {
-    public Animal() {
-        
+    int hunger;
+    public Animal(int h) {
+        hunger = h;
     }
 }
