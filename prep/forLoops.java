@@ -16,7 +16,7 @@ public class forLoops {
         }
         System.out.println();
         for (int z = 0; z <= 10; z++) {
-            for (int j = 0; j <= 5;j++) {
+            for (int j = 10; j > 5;j--) {
                 System.out.print(5);
             }
             System.out.println();
