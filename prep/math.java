@@ -2,6 +2,7 @@ package prep;
 
 
 public class math {
+    @SuppressWarnings("removal")
     public static void main(String[] args) {
         // use math libary
         Integer c = new Integer(Math.max(0, 10));
