@@ -5,5 +5,6 @@ public class strings {
         // use string methods
         String name = "John";
         System.out.println(name.length());
+        System.out.println(name.equals("John"));
     }
 }
