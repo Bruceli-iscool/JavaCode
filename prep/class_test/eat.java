@@ -6,6 +6,7 @@ public class eat {
     for (int i = 0;i<100;i++) {
         dogAnimal.eat();
         dogAnimal.exercise();
+        dogAnimal.eat();
         Thread.sleep(100);
     }
 }
