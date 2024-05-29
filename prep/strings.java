@@ -6,5 +6,7 @@ public class strings {
         String name = "John";
         System.out.println(name.length());
         System.out.println(name.equals("John"));
+        // string.substring
+        
     }
 }
