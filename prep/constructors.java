@@ -15,6 +15,9 @@ public class constructors {
         for (byte i = 0; i < sellable.length; i++) {
             System.out.println(sellable[i]);
         } 
+        for (MotorCycle z:motors) {
+            System.out.println(z);
+        }
     }
 }
 
