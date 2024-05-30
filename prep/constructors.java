@@ -9,6 +9,7 @@ public class constructors {
         MotorCycle steven = new MotorCycle("Honda",100, "Orange", 100);
         steven.printInfo();
         MotorCycle tim = new MotorCycle();
+        MotorCycle[] motors = {steven, tim};
         tim.printInfo();
         Boolean[] sellable = {tim.sell(), steven.sell()};
         for (byte i = 0; i < sellable.length; i++) {
