@@ -7,6 +7,8 @@ public class strings {
         System.out.println(name.length());
         System.out.println(name.equals("John"));
         // string.substring
-        
+        //
+        // trim()
+        System.out.println(name.trim());
     }
 }
