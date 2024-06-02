@@ -12,7 +12,7 @@ public class Hello2 {
       frame.setSize( 300, 300 );
       frame.setVisible( true );
     }
-  }
+  };
   
 
   class HelloComponent2 extends JComponent implements MouseMotionListener {
@@ -23,7 +23,7 @@ public class Hello2 {
     public HelloComponent2( String message ) {
       theMessage = message;
       addMouseMotionListener(this);
-    }
+    };
   
     public void paintComponent( Graphics g ) {
       g.drawString( theMessage, messageX, messageY );
