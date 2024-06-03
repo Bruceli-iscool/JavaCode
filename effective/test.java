@@ -3,8 +3,8 @@ package effective;
 public class test {
     public static void main(String args[]) {
         
-    } 
-}
+    };
+};
 // testing enums
 enum weekDays {
     MONDAY,
@@ -17,4 +17,4 @@ enum weekDays {
 // testing factory methods
 class Car {
     // leave blank for now
-}
+};
