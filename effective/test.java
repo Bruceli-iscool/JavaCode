@@ -5,3 +5,11 @@ public class test {
         
     } 
 }
+// testing enums
+enum weekDays {
+    MONDAY,
+    TUESDAY,
+    WENDSDAY,
+    THURSDAY,
+    FRIDAY
+};
