@@ -13,3 +13,8 @@ enum weekDays {
     THURSDAY,
     FRIDAY
 };
+
+// testing factory methods
+class Car {
+    // leave blank for now
+}
