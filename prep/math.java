@@ -5,6 +5,7 @@ public class math {
     @SuppressWarnings("removal")
     public static void main(String[] args) {
         // use math libary
+        // testing decapritated declarations
         Integer c = new Integer(Math.max(0, 10));
         System.out.println(c);
         Double a = new Double(Math.sqrt(200));
