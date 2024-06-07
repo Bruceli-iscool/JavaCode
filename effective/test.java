@@ -14,7 +14,8 @@ enum weekDays {
     FRIDAY
 };
 
-// testing factory methods
-class Car {
-    // leave blank for now
+// getters
+class Bank {
+    private int password = 1034244;
+    String username = "John8978";
 };
