@@ -24,5 +24,7 @@ class Bank {
         return password;
     }
     // setters
-    
-};
+    public void changeUserName(String change) {
+        username = change;
+    } private void changePassWord(int change) {}
+}
