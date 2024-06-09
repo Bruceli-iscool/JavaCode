@@ -17,6 +17,7 @@ enum weekDays {
 class Bank {
     private int password = 1034244;
     private String username = "John8978";
+    // method
     // getters
     public String getUserName() {
         return username;
