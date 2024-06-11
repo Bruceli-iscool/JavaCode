@@ -30,7 +30,7 @@ class Bank {
     // setters
     public void changeUserName(String change) {
         username = change;
-    } private void changePassWord(int change) {
+    } public void changePassWord(int change) {
         password = change;
     }
 }
