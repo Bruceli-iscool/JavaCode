@@ -2,7 +2,7 @@ package prep;
 
 public class enchancedFor {
     public static void main(String[] args) {
-        // enchanced for demo
+        // enchanced for loop demo
         // loop through every item in array
         String[] names = {"John", "Bill", "Max", "Bodie"};
         for (String a:names) {
