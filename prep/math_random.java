@@ -7,6 +7,5 @@ public class math_random {
         // use java.util.Random (Working with Random and Math class)
         Random gen = new Random();
         System.out.println(gen.nextInt(20));
-        // seeds in random
     }
 }
