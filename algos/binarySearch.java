@@ -16,7 +16,7 @@ public class binarySearch {
     }
 }
 
-// create an array class
+// create an Array class
 class Array {
     int[] arr;
     public Array(int[] values) {
