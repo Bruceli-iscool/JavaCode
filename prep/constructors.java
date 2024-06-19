@@ -7,7 +7,7 @@ public class constructors {
         bill.printInfo();
         john.printInfo();
         MotorCycle steven = new MotorCycle("Honda",100, "Orange", 100);
-        steven.printInfo();
+        steven.printInfo(); 
         MotorCycle tim = new MotorCycle();
         MotorCycle[] motors = {steven, tim};
         tim.printInfo();
