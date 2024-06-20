@@ -11,7 +11,7 @@ public class ui {
         frame.setSize(300, 400);
         JLabel label = new JLabel("Hi john\n");
         frame.add(label);
-        JTextArea t = new JTextArea();
+        JTextArea t = new JTextArea(); 
         frame.add(t);
         frame.setVisible(true);
 }
