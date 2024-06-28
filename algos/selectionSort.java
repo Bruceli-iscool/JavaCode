@@ -9,7 +9,7 @@ public class selectionSort {
     } public static int[] sort(int[] i) {
         int[] newArr = new int[i.length];
         int[] copiedArr = i;
-        for (int j = 0;j<copiedArr.length;j++) {
+        for (int j = 0;j<copiedArr.length;j++) { 
             int smallest = smallest(copiedArr);
             newArr[j] = smallest;
         };
