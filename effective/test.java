@@ -12,7 +12,7 @@ enum weekDays {
     WENDSDAY, 
     THURSDAY,
     FRIDAY
-};
+}; 
 
 class Bank {
     private int password = 1034244;
