@@ -7,6 +7,6 @@ public class enchancedFor {
         String[] names = {"John", "Bill", "Max", "Bodie", "Steve"};
         for (String a:names) {
             System.out.println("His name is " + a);
-        }
-    }
-}
+        };
+    };
+};
