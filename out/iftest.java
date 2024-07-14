@@ -11,7 +11,7 @@ public class iftest {
         // simple if statements
         /* char hi = 'h';
         if (hi == 'h') 
-            System.out.println("The char is h");
+            System.out.println("The char is h"); 
         else
             System.out.println("The char is not h");
         */
