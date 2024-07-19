@@ -9,7 +9,7 @@ public class fortest {
         // enhanced for loop
         // an array
         int[] arr = {2, 3, 5, 7};
-        // print every value in the array
+        // print every value in the array 
         for (int i:arr) { 
             System.out.println(i);
         }        
