@@ -11,7 +11,7 @@ public class fortest {
         int[] arr = {2, 3, 5, 7};
         // print every value in the array 
         for (int i:arr) { 
-            System.out.println(i);
+            System.out.println(i); 
         }        
     }
 } 
