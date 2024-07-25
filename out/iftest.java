@@ -6,7 +6,7 @@ public class iftest {
         if (i == 5) {
             System.out.println("The Number is 5");
         } else {
-            System.out.println("The Number is not 5");
+            System.out.println("The Number is not 5"); 
         }
         // simple if statements
         /* char hi = 'h';
