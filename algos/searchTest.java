@@ -8,7 +8,7 @@ public class searchTest {
         System.out.println(s.search());
 
     }
-}
+} 
 
 class Search {
     int[] nums;
