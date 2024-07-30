@@ -1,7 +1,7 @@
 package prep;
 
 public class constructors {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Bikes john = new Bikes("Blue", 56);
         Bikes bill = new Bikes();
         bill.printInfo();
