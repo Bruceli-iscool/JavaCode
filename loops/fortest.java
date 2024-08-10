@@ -4,7 +4,7 @@ public class fortest {
     public static void main(String[] args) {
         // counter style for loops
         for (int i = 0;i <10;i++) {
-            System.out.println(i);
+            System.out.println(i); 
         }
         // enhanced for loop
         // an array
