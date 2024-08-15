@@ -9,7 +9,7 @@ public class test {
 enum weekDays {
     MONDAY,
     TUESDAY, 
-    WENDSDAY, 
+    WENDSDAY,  
     THURSDAY,
     FRIDAY
 }; 
