@@ -1,7 +1,7 @@
 package guess;
 
 import javax.swing.*;
-
+ 
 public class guessUI {
     public static void main(String[] args) {
         JFrame frame = new JFrame("guess");  
