@@ -14,7 +14,7 @@ public class binarySearch {
         System.out.println(l.binarySearch(4)); 
     }
 }
-
+   
 // create an Array class
 class Array {
     int[] arr;
