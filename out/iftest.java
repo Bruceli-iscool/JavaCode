@@ -16,4 +16,4 @@ public class iftest {
             System.out.println("The char is not h");
         */
     }
-}
+} 
