@@ -9,7 +9,7 @@ public class Hello {
         JFrame frame = new JFrame("Hello"); 
         frame.setSize(300, 150);
         // JLabel label = new JLabel("Hello!", JLabel.CENTER);
-        // frame.add(label); 
+        // frame.add(label);  
         frame.add(new HelloComponent());
         frame.setVisible(true);
     } 
