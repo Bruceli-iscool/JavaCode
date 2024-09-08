@@ -2,7 +2,7 @@ package swing;
 import javax.swing.*;
 import java.awt.*;
 
-
+  
 public class ui {
     public static void main(String[] args) {
         JFrame frame = new JFrame("ui");
