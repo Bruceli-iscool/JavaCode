@@ -7,7 +7,7 @@ public class test {
 };  
 // testing enums  
 enum weekDays {
-    MONDAY,
+    MONDAY, 
     TUESDAY,  
     WENDSDAY,   
     THURSDAY,
