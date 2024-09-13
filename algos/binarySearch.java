@@ -10,7 +10,7 @@ public class binarySearch {
         Array k = new Array(arr);
         System.out.println(k.binarySearch(6)); 
         int[] arr2 = {1, 2, 4, 5, 6, 7 , 8, 10, 3, 4, 6};
-        Array l = new Array(arr2);
+        Array l = new Array(arr2);  
         System.out.println(l.binarySearch(4)); 
     }
 }
