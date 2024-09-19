@@ -6,7 +6,7 @@ public class binarySearch {
     public static void main(String[] args) {
         // binary search 
         // time: O(log n)
-        int[] arr = {1, 2, 3, 4, 5, 2};
+        int[] arr = {1, 2, 3, 4, 5, 2}; 
         Array k = new Array(arr);
         System.out.println(k.binarySearch(6)); 
         int[] arr2 = {1, 2, 4, 5, 6, 7 , 8, 10, 3, 4, 6};
