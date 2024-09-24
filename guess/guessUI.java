@@ -7,7 +7,7 @@ public class guessUI {
         JFrame frame = new JFrame("guess");  
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  
         frame.setVisible(true); 
-        
+             
     };  
 };
   
