@@ -6,6 +6,6 @@ public class whileTest {
     while (i < 40) { 
       System.out.println(i);
       i += 1;
-    }
+    } 
   }
 }
