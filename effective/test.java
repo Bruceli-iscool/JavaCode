@@ -5,7 +5,7 @@ public class test {
          Bank bank = new Bank();    
     };
 };  
-// testing enums  
+// testing enums       
 enum weekDays {
     MONDAY, 
     TUESDAY,  
