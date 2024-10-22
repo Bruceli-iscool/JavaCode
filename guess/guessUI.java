@@ -1,6 +1,6 @@
  package guess;
 
-import javax.swing.*;
+import javax.swing.*;    
  
 public class guessUI {
     public static void main(String[] args) {    
