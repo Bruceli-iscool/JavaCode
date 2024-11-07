@@ -4,7 +4,7 @@ public class test {
     public static void main(String args[]) {  
          Bank bank = new Bank();    
     };    
-};  
+};       
 // testing enums       
 enum weekDays {  
     MONDAY, 
