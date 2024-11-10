@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Hello { 
-    public static void main(String[] args) { 
+    public static void main(String[] args) {   
         JFrame frame = new JFrame("Hello"); 
         frame.setSize(300, 150);
         // JLabel label = new JLabel("Hello!", JLabel.CENTER);
