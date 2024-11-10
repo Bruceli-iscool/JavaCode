@@ -13,7 +13,7 @@ enum weekDays {
     THURSDAY,
     FRIDAY
 }; 
-
+   
 class Bank {       
     private int password = 1034244;
     private String username = "John8978";
