@@ -3,7 +3,7 @@ package algos;
 import java.util.Arrays;
 
 public class binarySearch {
-    public static void main(String[] args)  {
+    public static void main(String[] args)  {                         
         // binary search 
         // time: O(log n)
         int[] arr = {1, 2, 3, 4, 5, 2}; 
