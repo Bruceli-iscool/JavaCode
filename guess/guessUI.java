@@ -1,4 +1,4 @@
- package guess;
+package guess;
 
 import javax.swing.*;    
  
