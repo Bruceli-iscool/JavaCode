@@ -1,2 +1,2 @@
-some algos in java 
+some algos implemented in java 
 
