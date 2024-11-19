@@ -1,6 +1,6 @@
 package algos;
 
-// brute force search
+// brute force search 
 public class searchTest {
     public static void main(String[] args) {
         int[] n = {2, 4, 5};
