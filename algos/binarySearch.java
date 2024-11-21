@@ -1,6 +1,6 @@
 package algos;
 
-import java.util.Arrays;
+import java.util.Arrays;   
 
 public class binarySearch {
     public static void main(String[] args)  {                         
