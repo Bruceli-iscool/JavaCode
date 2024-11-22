@@ -20,7 +20,7 @@ class Bank {
     // method
     public int get() {
         return getPassWord();
-    }
+    }                                                                                          
     // getters
     public String getUserName() {
         return username;
