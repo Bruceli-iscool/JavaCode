@@ -9,5 +9,5 @@ public class guessUI {
         frame.setVisible(true);  
              
     };  
-};
+}
     
